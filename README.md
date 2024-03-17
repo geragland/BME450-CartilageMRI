@@ -1,8 +1,7 @@
 # Title
-  “Detecting bone and cartilage disease in MRI images of the knee joint”
+  “Detecting bone and cartilage injuries through knee joint MRI images with the use of Machine Learning”
 ## Team members
   Graham Ragland (geragland), Rahul Appaji (rappaji)
 ## Project decription
-  Max ½ page. Include some information on:
-  - what dataset you plan to use
-  - goal of the project
+  - Goal: To create a program that uses machine learning in order to determine the type of bone and cartilage disease/injuries that are seen on a MRI image of a knee joint. Examples of conditions that our program will diangose are ACL tears and meniscus tears. 
+  - Dataset we plan to use:A set of MRI images of the knee joint that showcase a variety of different conditions along that are associated with different labels such as "ACL tear", "meniscus tear", and "normal".
