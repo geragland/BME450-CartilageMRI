@@ -1,10 +1,8 @@
 # Title
-  “Detecting bone and cartilage disease in MRI images of the joint”
+  “Detecting bone and cartilage disease in MRI images of the knee joint”
 ## Team members
-  NameA (GitHubUserA), NameB (GitHubUserB)
+  Graham Ragland (geragland), NameB (GitHubUserB)
 ## Project decription
   Max ½ page. Include some information on:
   - what dataset you plan to use
   - goal of the project
-
-BME450-CartilageMRI
