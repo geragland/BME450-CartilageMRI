@@ -1,4 +1,4 @@
-# Title
+# README
   “Creating an ML Model for ACL Injury Classification” 
 ## Team members
   Graham Ragland (geragland), Rahul Appaji (rappaji)
